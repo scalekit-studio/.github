@@ -2,7 +2,7 @@
 
 <div align=center>
 
-<img src="https://raw.githubusercontent.com/scalekit-studio/.github/main/profile/svg/logo.svg" alt="logo" bg="#0d1117">
+<img src="https://raw.githubusercontent.com/scalekit-studio/.github/main/profile/svg/logo.svg" alt="logo">
 
 Welcome to **scaleKit studio**'s github page, BUILT FOR IDEAS - BUSINESSES READY TO EVOLVE
 
