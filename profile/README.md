@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/scalekit-studio/.github/main/profile/svg/logo.svg" alt="ScaleKit Studio" width="520">
 
-  <p><strong>Built for ideas. Ready for businesses to evolve.</strong></p>
+  <p>Welcome to <strong>scaleKit studio</strong>'s github page, BUILT FOR IDEAS - BUSINESSES READY TO EVOLVE</p>
 </div>
 
 ScaleKit Studio builds adaptive software systems that combine durable product
